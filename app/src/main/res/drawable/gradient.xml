@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opticalInsetTop="0dp"
+    android:opticalInsetBottom="0dp">
+    <gradient
+        android:type="linear"
+        android:startColor="@color/green"
+        android:centerColor="@color/green2"
+
+        android:endColor="@color/red"
+
+        />
+    <gradient
+        android:startColor="@color/green"
+        android:centerX="40%"
+        android:centerColor="@color/yellow"
+        android:endColor="@color/red"
+        android:type="linear"
+        android:angle="0"
+
+        />
+    <corners android:radius="40dp"/>
+    </shape>

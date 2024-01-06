@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DZ_7_CALCULATOR</string>
+    <string name="Category">Category</string>
+    <string name="Explore">Explore the nightlife of your city</string>
+    <string name="Free">Free</string>
+    <string name="price">Price💰</string>
+    <string name="price1">Price</string>
+    <string name="Next">Next</string>
+    <string name="Result">Result:</string>
+    <string name="NextTwoActivity">Next_2_okna</string>
+    <string name="Participants">Participants</string>
+    <string name="Accessibility">Accessibility</string>
+    <string-array name="rangeSlider">
+        <item>20</item>
+        <item>70</item>
+    </string-array>
+
+</resources>
